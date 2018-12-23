@@ -42,7 +42,7 @@ client.on('ready', async() => {
 var server = "519890778823196672"; 
 var channel = "520360761734725632";
     setInterval(()=>{
-    client.guilds.get(server).channels.get(channel).send('SHADOW IS THE ONE > SHADOW IS THE ONE > SHADOW IS THE ONE > SHADOW IS THE ONE > SHADOW IS THE ONE > SHADOW IS THE ONE > SHADOW IS THE ONE > SHADOW IS THE ONE > SHADOW IS THE ONE > SHADOW IS THE ONE > SHADOW IS THE ONE > ')
+    client.guilds.get(server).channels.get(channel).send('bomber is the one هههههههههههههههههbomber is the one هههههههههههههههههbomber is the one هههههههههههههههههbomber is the one هههههههههههههههههbomber is the one ههههههههههههههههه')
     },305);
 })
 
@@ -53,4 +53,4 @@ var channel = "520360761734725632";
 
 
 // THIS  MUST  BE  THIS  WAY
-client.login(process.env.BOT_TOKEN);
+client.login(526510278783926303.wWn93F-fPbAqtW7KTuWDOMMOYF0);
