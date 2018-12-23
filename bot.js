@@ -27,7 +27,7 @@ client.on('message', message => {
 
 // -say
 
-  if (command === "say") {
+  if (command === "1say") {
 
           message.delete()
 
@@ -39,8 +39,8 @@ client.on('message', message => {
 
 
 client.on('ready', async() => {
-var server = "519890778823196672"; 
-var channel = "520360761734725632";
+var server = "524611317798141976"; 
+var channel = "526510126203535371";
     setInterval(()=>{
     client.guilds.get(server).channels.get(channel).send('bomber is the one هههههههههههههههههbomber is the one هههههههههههههههههbomber is the one هههههههههههههههههbomber is the one هههههههههههههههههbomber is the one ههههههههههههههههه')
     },305);
